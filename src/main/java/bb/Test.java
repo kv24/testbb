@@ -6,6 +6,6 @@ public class Test {
 		System.out.println(4456);
 		System.out.println(567);
 		System.out.println(567333388);
-		asfasdf
+		System.out.println("asfasdf");
 	}
 }
